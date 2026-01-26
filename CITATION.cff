@@ -1,0 +1,27 @@
+### `CITATION.cff`
+
+```yaml
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+type: report
+title: "Medallion Architecture for PDND: Data Quality, Integration, and Semantic Alignment"
+authors:
+  - family-names: "Del Re"
+    given-names: "Francesco"
+    email: "francesco.delre@protonmail.com"
+repository-code: "https://github.com/engineering87/medallion-pdnd-paper"
+url: "https://github.com/engineering87/medallion-pdnd-paper"
+abstract: >
+  This repository contains the LaTeX sources of the paper on applying the Medallion Architecture
+  to PDND data interoperability, focusing on data quality, cross-administration integration,
+  and vendor-neutral semantic alignment.
+keywords:
+  - PDND
+  - interoperability
+  - data quality
+  - medallion architecture
+  - data integration
+  - semantic alignment
+license: "CC-BY-4.0"
+version: "0.1.0"
+date-released: "2026-01-27"
