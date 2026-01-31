@@ -6,6 +6,7 @@ authors:
   - family-names: "Del Re"
     given-names: "Francesco"
     email: "francesco.delre@protonmail.com"
+doi: "10.5281/zenodo.18442375"
 repository-code: "https://github.com/engineering87/medallion-pdnd-paper"
 url: "https://github.com/engineering87/medallion-pdnd-paper"
 abstract: >
@@ -21,4 +22,4 @@ keywords:
   - semantic alignment
 license: "CC-BY-4.0"
 version: "0.1.0"
-date-released: "2026-01-27"
+date-released: "2026-01-31"
