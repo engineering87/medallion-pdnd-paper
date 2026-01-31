@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18442375.svg)](https://doi.org/10.5281/zenodo.18442375)
+
 # Medallion Architecture for PDND: Data Quality, Integration, and Semantic Alignment
 
 This repository contains the LaTeX sources for the paper:
